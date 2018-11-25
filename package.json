@@ -1,0 +1,26 @@
+{
+  "name": "faclonlabstask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek011/FaclonLabsTask.git"
+  },
+  "author": "Vivek Kumar Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek011/FaclonLabsTask/issues"
+  },
+  "homepage": "https://github.com/vivek011/FaclonLabsTask#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.16.4",
+    "http-status-codes": "^1.3.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.13"
+  }
+}
